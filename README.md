@@ -4,7 +4,7 @@
 ## Laravel 10 E-commerce project
    
 -  Clone Project
--  .env.example as .env and edit for you
+-  copy .env.example as .env and edit for you
 -  composer install
 -  php artisan key:generate
 -  composer update 
